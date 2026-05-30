@@ -18,7 +18,7 @@
 
 ## 📦 前置要求
 
-- 浏览器扩展：[Tampermonkey](https://www.tampermonkey.net/) / [Violentmonkey](https://violentmonkey.github.io/)
+- 浏览器扩展：[Tampermonkey](https://www.tampermonkey.net/) / [Violentmonkey](https://violentmonkey.github.io/) / [ScriptCat](https://scriptcat.org/)
 - 支持现代浏览器：`Chrome` / `Edge` / `Firefox` / `Safari`
 
 ## ⚙️ 自定义配置
