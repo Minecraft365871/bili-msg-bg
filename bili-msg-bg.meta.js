@@ -5,8 +5,8 @@
 // @description  为Bilibili消息中心设置背景，兼容 BewlyBewly
 // @author       Minecraft_365871
 // @match        https://message.bilibili.com/*
-// @updateURL    https://raw.githubusercontent.com/Minecraft-365871/bili-msg-bg/main/bili-msg-bg.meta.js
-// @downloadURL  https://raw.githubusercontent.com/Minecraft-365871/bili-msg-bg/main/bili-msg-bg.user.js
+// @updateURL    https://raw.githubusercontent.com/Minecraft365871/bili-msg-bg/main/bili-msg-bg.meta.js
+// @downloadURL  https://raw.githubusercontent.com/Minecraft365871/bili-msg-bg/main/bili-msg-bg.user.js
 // @grant        none
 // @run-at       document-idle
 // ==/UserScript==
