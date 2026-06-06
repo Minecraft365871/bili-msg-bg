@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         B站消息中心背景更改
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/Minecraft365871/bili-msg-bg
 // @version      2.2
 // @description  为Bilibili消息中心设置背景，兼容 BewlyBewly
 // @author       Minecraft_365871
